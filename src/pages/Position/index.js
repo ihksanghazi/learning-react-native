@@ -1,6 +1,6 @@
 import {Image, StyleSheet, View, Text} from 'react-native';
 import React from 'react';
-import hanphone from './handphones.png';
+import hanphone from '../../assets/img/handphones.png';
 
 export default function Position() {
   return (

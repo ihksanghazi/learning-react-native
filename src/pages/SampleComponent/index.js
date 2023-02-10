@@ -1,12 +1,5 @@
 import React, {Component} from 'react';
-import {
-  Image,
-  ScrollView,
-  StyleSheet,
-  Text,
-  TextInput,
-  View,
-} from 'react-native';
+import {Image, Text, TextInput, View} from 'react-native';
 
 const SampleComponent = () => {
   return (

@@ -5,6 +5,7 @@ import StylingComponent from './pages/StylingComponent';
 import Flexbox from './pages/Flexbox';
 import Position from './pages/Position';
 import PropsDinamis from './pages/PropsDinamis';
+import Communication from './pages/Communication';
 
 const App = () => {
   return (
@@ -13,7 +14,8 @@ const App = () => {
       {/* <StylingComponent /> */}
       {/* <Flexbox /> */}
       {/* <Position /> */}
-      <PropsDinamis />
+      {/* <PropsDinamis /> */}
+      <Communication />
     </ScrollView>
   );
 };

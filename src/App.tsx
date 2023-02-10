@@ -4,14 +4,16 @@ import SampleComponent from './pages/SampleComponent';
 import StylingComponent from './pages/StylingComponent';
 import Flexbox from './pages/Flexbox';
 import Position from './pages/Position';
+import PropsDinamis from './pages/PropsDinamis';
 
 const App = () => {
   return (
     <ScrollView>
-      <SampleComponent />
-      <StylingComponent />
-      <Flexbox />
-      <Position />
+      {/* <SampleComponent /> */}
+      {/* <StylingComponent /> */}
+      {/* <Flexbox /> */}
+      {/* <Position /> */}
+      <PropsDinamis />
     </ScrollView>
   );
 };
